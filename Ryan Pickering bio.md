@@ -1,5 +1,5 @@
 # Welcome to my page!
-***
+
 My name is Ryan Pickering, and I am excited to be participating in HIST3907B this semester. I hope to get a lot of information on how to interact better with the digital world through this class, as I strongly believe that the world needs to be more digitally literate. My digital experience thus far consists of participating in HIST3812A last semester, where we explored the concept of video games as historical scholarship, using such resources as [Twine](http://www.twinery.org) and placing all of our work on our [class site](http://hist3812a.dhcworks.ca/). As well, this semester I will be working with Dr. Graham on a digital fellowship, where we will be working on building up a game development studio focused on creating historical scholarship through games (a continuation of the themes of HIST3812A). You can find the work-in-progress site [here](http://www.studio3812.com). 
 
 ![minecraft]
