@@ -1,0 +1,7 @@
+talking about github, exploring basic concepts, etc.
+different ways of achieving the things we do - where to find help
+
+- profhacker
+- stackoverflow
+	- way of asking questions/answering them too... be careful there.
+- DH Q + A

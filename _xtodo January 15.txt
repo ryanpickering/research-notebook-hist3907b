@@ -1,0 +1,3 @@
+- INDG1000 outline
+- update hist3902 outline
+- LEARN COMMAND LINE FOR CLASS (wget)
