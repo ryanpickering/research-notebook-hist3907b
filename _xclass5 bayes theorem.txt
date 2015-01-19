@@ -1,0 +1,1 @@
+bayes theorem: probablility of something guessable due to previous probabilities and previous outcomes. 

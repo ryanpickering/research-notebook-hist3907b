@@ -1,0 +1,16 @@
+full text search emerges, CD ROM search, human web replicating how to find info with humans
+altavista, etc. not easy at first
+
+search boxes are trivial at first - simple keyword search - no contexual info, no semantics, no editing, etc. 
+boolean algebra comes in
+
+keyword search only gives us back stuff we are likely to know
+
+98 - Google being invented, doing cool things with keyword search. pages being shown based on network of connections and scoring keyword pages
+reinforcing popularity of pages.
+why google CRUSHES the COMPETITION
+
+arms race on keyword manipulation for websites
+google now looks for 300+ different signals to show you the information youre looking for. one of those signals? BROWSING HISTORY
+
+same with history: prior assumptions get reworked and reinforced 
