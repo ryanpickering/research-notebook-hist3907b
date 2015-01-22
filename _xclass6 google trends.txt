@@ -1,0 +1,7 @@
+popularity of diff. searches over time
+difference in what is being showed in this vs google keyword
+normalized data: 0-100, not actual search volume p/month therefore comparisons can look different
+trajectory of these terms after time
+
+last step of the project: take the different keywords that are being searched and reach people WHERE they are finding things already for historical experiences
+make historians part of the conversation

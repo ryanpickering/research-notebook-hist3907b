@@ -1,0 +1,4 @@
+very cool program - excited to use this on other pages/databases
+includes url of pulled resource, time i took it, etc... not sure how this can be useful other than good record-keeping. are there hidden layers to this i am not seeing? 
+
+key seems to be very specific with html though, or else you will pull stuff you're not really interested in such as segments of HTML.

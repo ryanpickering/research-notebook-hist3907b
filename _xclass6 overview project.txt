@@ -1,0 +1,2 @@
+analyze csv spreadsheet files to visualize as flows of ideas, etc. 
+very cool stuff

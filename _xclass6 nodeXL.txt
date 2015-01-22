@@ -1,0 +1,6 @@
+spreadsheet tool? set application to take in hashtags of public history, conservation, etc. recommended by american historical assoc. 
+public history's representation on twitter.
+
+NIX USING IT ON MAC - NOT AVAILABLE
+
+graph a social network while looking at however long of tweets
