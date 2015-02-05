@@ -1,0 +1,2 @@
+"dumb pattern finding" - somewhat like find and replace in word
+learn to use this with textwrangler

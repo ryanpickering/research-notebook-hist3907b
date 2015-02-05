@@ -1,0 +1,12 @@
+-r: recursive, follows 5 levels of links (goes WAAAAY too far - will download practically half the internet)
+more flags needed then... 
+
+--no-parent (two dashes as opposed to one - spelling out commands means double dash): follow all links, but don't leave the parent directory (ie. activehistory.ca/papers/)
+
+-l 2: ie, leave the directory, but only go two links beyond. (l=links)
+
+-w: wait, don't immediately take everything. 2 seconds is a fair thing (ie wget -w 2)
+--limit-rate=20k: how much bandwidth you want from them. when they have the bandwidth they will share it
+two ways to limit your taking of thier bandwith
+don't overwhelm their servers - be kind
+

@@ -1,0 +1,4 @@
+never well-formed, always messy, never in the right format. 
+always the step of "CLEANING"
+make sure to experiment first when cleaning - use 30/40 pieces, or run it on a copy of the data
+- version control basically

@@ -1,0 +1,1 @@
+linked data points to a sort of "dictionary" for meaning and context, WITHIN your text encoding.

@@ -1,0 +1,5 @@
+bringing in xml tags to a primary document bring semantic meaning - i didn't understand fully the concept of semantic meaning until we delved in and started discussing whether "the park" was a geographical feature or a known place
+
+xml is a method of doing close reading that has repercussions for other historians and others who use your work - they can see both your thought process and the meaning behind words in a primary ducment!
+
+(do the last mrs. wellington encoding for practice perhaps?)

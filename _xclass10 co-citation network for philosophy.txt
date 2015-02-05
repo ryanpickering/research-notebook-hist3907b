@@ -1,0 +1,6 @@
+who cites who in philosophy articles... hard to figure out HOW made
+
+sources: bibliographies from 1993-2013 in philosophical journals - which journals? how long the timeline? bibliography vs actual text.
+presented: community detection algorith, limited to 500 most cited items. limits things, choice of algorithm, etc. 
+visualised with D3 and published on the world wide web - aesthetic choices, depictions within the program D3, etc. 
+

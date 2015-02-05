@@ -1,5 +1,5 @@
 using advertisers google otols to look for things people look for when searching for history: raw underlying stuff of search engine life
 built with 100 terms created by shawn, ran through 7search (where a lot of noise comes through ie. troy)
-	- algorithms include a worldview because of how theyre created (classical hsitroy vs economics or something)
-	
+    - algorithms include a worldview because of how theyre created (classical hsitroy vs economics or something)
+    
 google keyword planner - another advertiser tool then appropriated for history: google is incentivised to provide real accurate data so very reliable. 

@@ -1,0 +1,2 @@
+what you do to get data shaped how you want depends on what you want from it.
+mapping vs network analysis vs language discourse, etc. 

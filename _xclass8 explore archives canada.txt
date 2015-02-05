@@ -1,0 +1,6 @@
+not a reliable url system/organization system... but images are!
+can we use wget for this? yes - follow the numerical system!
+need to automatically create a list of file numbers
+
+programming historian: applied archival downloading with wget
+

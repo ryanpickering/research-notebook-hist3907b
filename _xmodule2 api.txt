@@ -1,0 +1,3 @@
+Okay, I just downloaded all the material laid out in the API exercise. I don't fully understand what happened, how I did that, and what I now have. But that is wget!!! 
+
+This is being added several hours later... I have just finished choking away at altering the API script and cannot figure out for the life of me what to change. Submitted an issue to the repository so hopefully I can get some answers soon, and I need to write down some meaningful pieces regarding these exercises if I want marks.

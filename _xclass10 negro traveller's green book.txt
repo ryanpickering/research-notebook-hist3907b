@@ -1,0 +1,7 @@
+example of digital history project - how do we deconstruct this?
+
+their about page details their methodology and such
+
+source: 1956 green book, which asks questions. one greenbook, this specific greenbook, etc. 
+processed: transcribed, geocoded, and entered into a spreadsheet
+presented: mapped, presented with google fusion tables, javascript and dreamweaver: shows how they WANTED to PRESENT the information.

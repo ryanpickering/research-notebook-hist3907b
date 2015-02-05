@@ -1,0 +1,13 @@
+problems with it, and relevant: we as historians do transcriptions on our own ie. hist2809b
+- we were supposed to lay it out objectively, etc. 
+
+BUT! transcription vs. text-encoding
+to make these transcriptions useful in other ways/use the web's power, must tell the computer SEMANTIC MEANING of text.
+make linkages to other databases, other documents, etc. 
+
+basic html: a kind of visual encoding (bold, italics, etc.) 
+***html is related to... XML: create own tags and use them to communicate whatever info you want!
+to link together terms, people who are the same, label things in a way that the computer understand
+close reading!!! footnoting kind of, labels and links things
+
+bring in stylesheets (xlst) on xml just as html is styled by css

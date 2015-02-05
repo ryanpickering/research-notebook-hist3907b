@@ -1,0 +1,14 @@
+FREQUENT TAGS
+<DATE> contains a date in any format.
+<EVENT> any phenomenon or occurrence, not necessarily vocalized or communicative, for example incidental noises or other events affecting communication.
+<GEOGNAME>(I.E. GEOGRAPHICAL NAME) a name associated with some geographical feature such as'Windrush Valle' or 'Mount Sinai'.
+<GEOG>(I.E. GEOGRAPHICAL FEATURE NAME) a common noun identifying some geographical feature contained within a geographic name, such as 'valley', 'mount', etc.
+<OCCUPATION>contains an informal description of a person's trade, profession or occupation.
+<PERSNAME> (I.E. PERSONAL NAME) contains a proper noun or proper-noun phrase referring to a person, possibly including any or all of the person's forename, surname, honorofic, added names, etc.
+<PLACENAME> (I.E. PLACE NAME) contains an absolute or relative place name.
+<ROLENAME>Description: contains a name component which indicates that the referent has a particular role or position in society, such as an official title or rank.
+<TIME> Description: contains a phrase defining a time of day in any format.
+
+can also add in IDs too: <placename id="grosvenor-park">, etc. 
+
+Close reading through parsing in the xml!!!

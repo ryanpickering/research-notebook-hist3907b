@@ -1,0 +1,8 @@
+to digitize is to scan... NOT!!! There is so much more to digitization: people don't get it
+Where Ian Milligan's illusionary order comes in: we just accept the limitations and procedural rhetorics of historical databases
+
+in digitzied pieces... object character recognition: OCR
+looks for patterns of dark and white for this letter, that letter, etc. 
+not effective: just lucky or not. limitations: the search didn't follow the article to the next page
+
+OCR is a messy algorithm that historians don't talk about because they don't understand
