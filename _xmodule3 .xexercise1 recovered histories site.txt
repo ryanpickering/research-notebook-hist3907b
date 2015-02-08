@@ -1,0 +1,5 @@
+Upon looking at the Recovered Histories site, I have few first impressions...
+- it has a great amount of primary documents to look at spanning almost 100 years
+- upon examining one, i don't see any obvious ways to work with the documents in an api or wget... hopefully this exercise has some more advice on that
+- it seems reliable because of the amount of documents laid out, the background given is solid context for anyone looking to learn about slavery
+- one aspect that makes me think this might be less than reliable is the fact that this is a page not created by a university or academic institution, but a human rights organization on slavery: however, one can see that as a good point for this page!

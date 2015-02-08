@@ -1,0 +1,5 @@
+just finished transcribing and the beginning stages of XML-ing my transcription - the tags but no real info within them... and i dont know how to find the info!!!
+
+in transcribing one page and now being responsible for encoding it with XML, what context do I have? I have no way of finding out who this 'barkeeper' is, who this colonel is, who Mr. Lawes is, where this tavern is, etc. etc. 
+
+Perhaps I just picked a bad page for this exercise. I will backtrack a little through the pamphlet to see if I can find any of this info...
