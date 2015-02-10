@@ -1,0 +1,7 @@
+that was a LOT easier than the preceding one, but maybe I got lucky - my expressions messed up maybe once? Now my csv file looks great and everything is good.
+
+regular expressions seem very powerful, and the syntax is simple to understand, unlike what i assumed coming into this exercise. I noticed that regex unfortunately messed up several of the entries in the index due to bad ocr where it couldn't tell that something was to be a date or a comma or whatnot. it's possible i am missing some entries due to bad ocr on the 'to' i initially used to signal whether or not to keep a line? hm. 
+
+so regex are extremely powerful, but with them come the burden of potentially deleting good important material through bad ocr. 
+
+also... i did not ever use regexr, i'm not sure how i was to incorporate that into my exercise. it seems like a good tutorial but i learnt enough from just exploring in textwrangler. 

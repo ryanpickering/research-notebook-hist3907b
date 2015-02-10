@@ -1,0 +1,7 @@
+aha! transforming it however you like! that's a bit more interesting than just cleaning and reconciling. 
+
+isolating different rows, colums, etc. then removing all in one shot. effective, cool!
+
+these coding terms are going over my head a little bit... i will have to consult a guide when doing something like this. 
+
+but okay! shaping data is important for digital history so that it can be used by different programs, so open refine is essential. i like this so far, but hopefully we will talk about it in class tomorrow to figure out moreso what to do with it. only 1 video left.

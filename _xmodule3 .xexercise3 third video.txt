@@ -1,0 +1,8 @@
+street address to lat-long... wow! open refine can reach out to the internet to change things in our data. Interesting, this has many many applications i'm sure.
+
+Still not certain on the concept of json even though we discussed it last week...
+
+remember APIs? needed in some websites when bringing them into open refine - something to keep in mind. 
+
+
+

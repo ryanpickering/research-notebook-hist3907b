@@ -1,0 +1,3 @@
+discussed this earlier: twitter mining.
+- written in python: interfaces with twitter API (remember???)
+- 

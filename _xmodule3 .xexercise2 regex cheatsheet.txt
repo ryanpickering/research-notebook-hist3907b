@@ -1,0 +1,12 @@
+| = "or"
+\b = beginning of word/end of word for textwrangler
+parentheses = "or" within a word or of a phrase, ie. gr(a|e)y or (that dog)|(that cat)
+. = any character
++ = find any number of previous character... ie. do+g = dog, doog, dooog, etc. (do)+g = dog, dodog, dododog, etc. 
+
+groups: each bracketed thing becomes a numbered group. 
+
+for more... http://regexlib.com/CheatSheet.aspx 
+
+
+

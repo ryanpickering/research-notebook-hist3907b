@@ -1,0 +1,8 @@
+okay, formatted everything into source,target: looks good. that's easy, and just one of the many simple options google refine gives. such an easy interface to work with! i really like this. 
+
+now inside of palladio, some initial patterns i notice with the information visualized...
+- james hamilton doesn't have the MOST items, but his spread looks like it is connected to a greater range of people than say ashbel smith: in the center of the graph as opposed to off to the left.
+- 60/40 split on interconnected letters to one-off correspondences that surround the graph in a big circle. That information would most likely be looked at, altered or excluded because of this in my final project relating to this information. 
+- presidents of texas republic have the most correspondence: anyone could have guessed that i'm sure, but it's still interesting to see that visualized.
+
+conclusion: google refine is a brilliant piece of software with an easy to use interface... i can see why so many DH use it - simpler than a lot of the stuff we've engaged with so far, and combined with regex, etc., it is even more powerful. 
