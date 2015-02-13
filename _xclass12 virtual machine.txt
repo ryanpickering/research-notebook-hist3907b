@@ -1,0 +1,4 @@
+would solve all our problems in this class
+- shell scripts, all the different programs and elements we discuss in class so that we can use all the possible things we could need in this class.
+- dr graham has been messing around w it... Lubuntu, a type of linux (stripped down)
+- wrangling data - not just the data but your computer!!!
