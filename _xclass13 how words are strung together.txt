@@ -1,0 +1,11 @@
+language has structure to convey meaning - we learn what to expect.
+because of this, look at distribution of words. what's close together? that could be related.
+
+"UNSUPERVISED LEARNING" - computer taking a look at stuff and examining and exploring and giving us new info
+
+assemblages in soil through space/time in archaeology SIMILAR!
+not neutral - encoded in language, algorithms, etc. 
+
+guided topic modelling - so make sure you layout your topics beforehand, where the historian comes in
+
+with voyant, you understand your text in a quantitatively different way - "not reading" lots of materials

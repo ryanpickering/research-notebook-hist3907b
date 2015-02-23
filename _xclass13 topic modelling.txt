@@ -1,0 +1,30 @@
+types.....
+
+TOPIC MODEL GUI
+- java thing
+- input and output, # of topics. incredibly easy to use. 
+- two folders: html and csv files
+- lets you jump between topics and documents
+- tweak # of topics you want to think about, yadyadayada
+- easiest way overall to do this 
+
+- remember! no real meaning until the historian gives it to the data
+- don't take answers at face value
+
+BUT, MORE COMPLICATED THINGS? Other ways of representing connections b/w topics and docs?
+- heatmaps
+- barcharts
+- bubblelines
+- flowgraphs
+- networks
+- no one way to visualize - the correct way is the way to convey your story the best
+
+MALLET!!!
+- use it on the command line: macho 
+RSTUDIO
+- holy crow this is crazy
+- lots to do, lots to see
+- kind of got caught up in watching, not taking notes. therefore: look at another guide? exercises material? etc. etc.
+	- being honest in my open notebook hehe
+	- in fact it IS in the exercises! score
+- fjadkhgadfjhkajdfhgk

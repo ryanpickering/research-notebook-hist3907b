@@ -1,0 +1,17 @@
+HERE WE GO
+
+qualitative and quantitiative DATA
+- we are uncomfortable w/ math
+- quantifying historical data?
+- 70s, cleometrics as baloney
+- what do you do?.............
+
+YOU COUNT EM - count the patterns that clusters of words make up. 
+to find patterns...
+- deform vision: find pattern out of words, etc. 
+- do this with a computer.... relating all words in various combos in various order etc. 
+- bigrams: 2 word clusters (number of words X (number of words - 1)) 
+- out from that... trigrams, quadgrams, quintgrams, yada yada yada - LARGE NUMBERS
+- not just words/frequency, but words/local neighbourhood, paragraph, page, chapter, book section, book, volume, series, etc etc etc
+- gives us a real sense of discourse, ideas, discussions going on, etc. 
+- with this, do a close reading with the patterns to discover things in human terms

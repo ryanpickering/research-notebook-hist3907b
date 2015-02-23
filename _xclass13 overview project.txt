@@ -1,0 +1,15 @@
+term frequency inverse document/distribution frequency
+tf-idf
+- strips out stop words in documents, then counts what remains - lists, vectors. 
+- compares every pair of documents, multiplying frequencies of corresponding words
+- then visualizes it in weird ways. 
+
+no probablility involved: just a bunch of math and pushing together. 
+
+- folders of the nested term list- they nest and do cool things. 
+- find things you might have missed!!!!
+- impose quick order using overview and guide reading like that. 
+
+can be hotsed on your own comp., difficultly, but doable for high-security info. the servers for it are hosted in USA.
+
+cool visualizations... tag your stuff in overview and export w/ tags. make charts in a spreadsheet with it yourself! 

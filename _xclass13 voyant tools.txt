@@ -1,0 +1,6 @@
+plug stuff in, have it on your own machine, etc etc, do whatever you like w/ it!
+
+test running through colonial newspaper database. 
+tons of different tools, visualization methods, analysis methods, etc. 
+http://docs.voyant-tools.org/
+
