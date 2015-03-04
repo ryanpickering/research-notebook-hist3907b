@@ -1,0 +1,4 @@
+one of the several things to do map distortion/rectifying to satellite image - cool cool cool
+
+connect through exporting it to other services - xml, geotiff, wms?
+cartoDB...

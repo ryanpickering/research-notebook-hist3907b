@@ -1,0 +1,17 @@
+lots of sins committed under the term 'network analysis'
+
+nodes can be anything - no connections
+edges - connecting nodes, making a relationship. 
+
+visualization of a network =/= analysis of a network: anyone can plop data into network visualization
+
+so, nodes and edges... we can expand upon that.
+nodes can have attributes: information about them perhaps
+connections (edges, oops) can be weighted differently as well
+
+kinds of edges: 
+DYADS - regular
+a dyad where the relationship is reciprocated
+transivity - if a is connected to b and c, b and c will also be connected
+	- implications of this? good relationship, bad, etc? WHAT IF
+

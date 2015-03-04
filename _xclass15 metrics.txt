@@ -1,0 +1,19 @@
+what the hell are metrics........
+its really an ALGORITHM producing numerical output to do... SOMETHING
+
+so i guess metrics allow us to see that an algorithm 
+
+small world networks: looks random but is behaving organized
+	- central characters key to functioning of network
+
+path length, how information flows. who is closest to the shortest paths of characters? *6 degrees of separation kind of stuff...
+	- whoever sits at intersection of most people. this isnt the whole story though - we can connect everyone eventually
+
+clustering: metapatterning of this is important
+	- clustering algorithms look at links (dyads) to determine this
+	- degree centality: the more connections you have the more central you are
+	- closeness centrality: number of steps to the outer edge of the network? not a very popular metric
+	- betweenness centrality: who each short path goes through to get to every other node
+	- in the same network, different metrics give a different centrality each time. very cool! why use which one though?
+	
+directed or undirected networks are essential to know as well: different centrality based off those relationships.

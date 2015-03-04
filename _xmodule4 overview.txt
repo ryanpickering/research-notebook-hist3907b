@@ -1,0 +1,13 @@
+Okay, starting the exercise. I have downloaded the dataset and am about ot upload it to overview...
+
+Initially, I didn't chose any words to ignore or give importance to: I didn't know what words were going to be the most prominent. I'm about to resubmit it a second time with the names of European regions excluded (I want to learn about the colonies, not the colonizers) and gave importance to the term indians, as that is what most interests me when it comes to this database - how were people writing about indigenous people back in Europe?
+
+So, with that...
+
+whoa! cool! i can see patterns in discussion when moving down - msot conversations relating to the term 'indians' discusses the united states and uses nationalist and warlike terms... interesting. other paths move with understandable patterns too... i searched for quebec just to test out the search function - it didn't change my tree but the document list on the side resulted in showing me an interesting collection of documents, many of which dealt with either economic issues (large and small - exports v. imports AND price of bread and flour), and one with a ton of democratic rhetoric in it. this document confused me, so i took a look at it, and it's a discussion of the Canada BIll and speaks of the state of Quebec beforehand! Wow!
+
+Okay, so now it's obvious that this can be used to find documents that have a certain style and subject matter easily - overview can act as a great "search engine" for large document groups with its topic modelling acting as the keywords. excellent!
+
+Unfortunately, as it stands right now i don't know how effective this will be for my project. my texts might be a little too fickle and small to really have a good shot at being analyzed effectively through topic modelling, but regardless i'm going to run my information through to see what happens. 
+
+also, word clouds! not as exciting as i had hoped, but a good inclusion into the project overall - helps with visualization when looking at trees can be confusing. multisearch is cool, and i did tag a few documents that i found interesting - with tagging multiple tags onto different documents there can be interesting overlap discovered by accident. overall, a very cool digital history tool with applications in a  lot of things - i hope i can figure out a project to use it for somewhere down the line. 

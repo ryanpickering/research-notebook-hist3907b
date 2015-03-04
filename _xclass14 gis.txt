@@ -1,0 +1,19 @@
+geographic information service 
+
+looking at data with a spatial component - LAYERS
+the world is built of layers, this software lives on that assumption - boundaries, levels, limits, etc. 
+the maps it creates are just layers on top of each other and interrelations between layers
+
+look at it and ask what relationships are between each level! different questions, many many many
+
+driving the application of computers in academia in 60s 70s 80s
+
+-
+
+in 90s, KEYHOLE:
+making xml documents to describe this info - google buys it and it becomes google earth!
+
+remember eye tracking studies... relates to how we read them
+
+historians want to include a TIME aspect - GIS doesnt do well with this (ever present NOW)
+change over time - various ways to do this (slices, animation, gifs)

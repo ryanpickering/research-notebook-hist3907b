@@ -1,0 +1,3 @@
+interesting software to visualize information from csv etc. 
+many options on visualization - again, expose accidental pattersn!
+through different visualizations get different ideas coming through

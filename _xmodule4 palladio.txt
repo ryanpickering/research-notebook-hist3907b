@@ -1,0 +1,7 @@
+okay, coming into this... seems like an interesting data set that posner has reformatted for this exercise. awesome! reinforcing good data necessary for good visualization/analysis. 
+
+imported my data... before looking at the instructions i know it's all greek to me. what is useful and not useful in mapping this stuff? 
+
+easy way to remedy your information using the review button... but not as useful as regex or even google refine. use as last resort kind of thing if youve messed up before bringing information into palladio. 
+
+COMING BACK TO THIS TONIGHT

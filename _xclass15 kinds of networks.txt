@@ -1,0 +1,12 @@
+unweighted network - where relationships are not weighted/given weight. 
+weighted network - different weights of relationships
+directed network - stated non-reciprocal relationships, directed (things going places)
+(ansell and padgett)
+with dates added... citation graph as directed network! a cited from b and c who both took from d who took from e and f
+	- attibrutes help us understand directionality of edges
+bipartite network - 2 mode network (2 different types of nodes)
+	- crucial!!! changes how network analysis works, stops it really - usually should only have one mode of node 
+	- the system is complicated excessively through bipartite, tripartite, etc. 
+	- could translate the secondary node system to edges attributes as relationships. 
+	- single mode network is best network - two mode networks are complex
+

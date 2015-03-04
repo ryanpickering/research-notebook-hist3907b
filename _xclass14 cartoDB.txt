@@ -1,0 +1,18 @@
+free service to make MAPS.
+
+lots of data out there for this - upload csv, url, geojson
+also can connect to twitter and extract geolocation!
+
+makes an automatic map from info - lots of options to visualize
+
+cool argument made from a specific visualization - heat map of the roman empire makes a new argument about the importance of amphitheatres!!! whoa!
+illustrating your argument VS. THE argument
+
+context in historical maps vs. factual nature of satellite imagery/map?
+
+jamaican slave revolt - REALLY COOL: georectified map and timeline stuff etc etc etc. we'll try to do this with the roman map..
+it works! load the url in with coordinates(?) and the roman map becomes the basemap
+
+another example w/ ottawa...
+I STRUGGLED HARD AND COULDNT OD IT :(
+ 

@@ -1,0 +1,7 @@
+After long last, I am beginning on my exercises for module 4: better late than never I like to imagine.
+The exercises I have chosen to pursue are Miriam Posner's tutorial on Palladio and the tutorial on Overview Project. Some reasons why:
+- I'm thinking of using overview for simple topic modelling of a number of tweets for my final project.
+- I've seen it before in 2809 and just did not get it... I'm hoping to wrap my head around it. 
+- Palladio just seems interesting, and it could be useful to mapping said tweets: a different element of my data that is also useful to my project (where are people tweeting from, what time of day, night, etc.)
+
+Here we go!!!
