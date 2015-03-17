@@ -1,0 +1,21 @@
+layout principles emerging from western art canon - bias in how we see the world and frame our pictures, video, world, etc. 
+
+golden ratio: fibonacci sequence, ratio that shows beauty of the world discovered by greeks
+simplified: RULE OF THIRDS. (callback to photography knowledge)
+look at your screen/poster/etc., divvy it up into thirds, think about where the elements will go. how will colours contrast? where will the eyes go?
+
+grid as element of design: splitting attention, showing where to go, organizing within rule of thirds without breaking it. 
+people understand how to look at rule of thirds naturally
+
+http://www.slideshare.net/kernlearningsolutions/what-is-an-effective-layout-3435438
+
+bootstrap shows the rule of thirds... possibly use this for project?
+also: bootstrap begins to cut out people with mobile devices, braille, screenreaders, etc. 
+
+screen essentialism - everyone works with a screen the same way, excludes people with disabilities. 
+
+analysis of some posters, including dr grahams posters for this class / hist3812.
+- complex task to communicate the fruits of research, and we are pushed hard into visual modes of representation due to our visual tech. 
+
+**the noun project: cool symbols for project visualization **
+

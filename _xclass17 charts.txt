@@ -1,0 +1,10 @@
+takes us through how we talk about visualization, yada yada yada. 
+
+charts seem unproblematic... they just show data, look at it!
+but not that simple... embody a ton of assumptions on what is good data, good practices, etc. 
+these conventions fall apart when you pick at them 
+
+relies on idea that the knowledge is independent of the viewer - external to us in the world that we can COUNT. 
+somehow, this will produce truth!
+
+but knowledge and the viewer affect each other (though asymmetrically)

@@ -1,0 +1,12 @@
+custom fonts can be imported into anything - exercise deals with how to add lots of fonts. 
+
+type connection is cool!!!
+
+if your font doesnt look good, your data doesnt look good. plain and simple
+
+understand WHY you are choosing a particular font - how are they helping your argument?
+what message, vibe, feel that each font gives out
+
+GOOGLE FONTS - explore around - over 600 fonts. functions of how to use the fonts, its neato. exercise on this bad boy
+
+use this exercise (stylesheet) in assessment submission? create website incorporating this knowledge?

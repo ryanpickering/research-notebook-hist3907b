@@ -1,0 +1,9 @@
+today, visualization through a HUMANITIES lens. the next two weeks (next module cancelled!!!) 
+show data in the way that humanities presents material - NOT sciences, etc. 
+
+readings...
+first two: journals
+	- drucker: cited often in data vis. articles, but not implemented a 	lot. so lets use it
+	- george williams: universal design with disabilities in mind 	(screen essentialism: lokcing out a particular audience and 	locking us out of different ideas of how to present)
+last two: blog posts
+	- owens: what are we using our visualization for? etc. etc.

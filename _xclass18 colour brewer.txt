@@ -1,0 +1,3 @@
+colorbrewer2.org - colour advice for cartography
+
+deals with palettes of colours for a map: do cooler visualizations with this stuff. explore different schemes to best suit your data

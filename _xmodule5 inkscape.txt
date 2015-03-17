@@ -1,0 +1,19 @@
+from previous work ive done on my own, i have experience w/ inkscape. so no need to download it, yippee!
+
+... scratch that... in clearing out my computer apparently i deleted a crucial thing. looks like i'm spending the next bit installing it :(
+
+the day after - still working on installing it. i'll come back to this after another exercise...
+
+... okay! font exercise is finished, i have refilled my coffee and i am ready to explore inkscape.
+- when i was in my year off of school/first year, i found an interest in creating fake coupons to get cheaper electronics from walmart: inkscape was a required software for doing so and i learned the ins and outs pretty quickly (note: i gave up doing this, but i did pay 40 dollars once for a brand new nintendo 3ds, so yeah. just wanted to share that story with the internet)
+
+not sure if there's a difference between opening the file and importing it - i opened it, so i'm going to nix that and import it. ... it works! good good good. saved as publication-year.svg in my open notebook (will be uploaded later/by the time you can read this)
+
+ungrouping seems like a VERY useful tool for working with vector graphics - i can see a lot of applications already in altering charts or images even before continuing the exercise. altering pie charts, line graphs, messing with scale, etc. 
+
+just turned the numbers on the y axis - very neat. i could see altering that very useful if i wanted to make the graph larger without actually going back to my chart program, just by stretching the graphic (because you can do that with vectors) and then altering the axis. cool!
+
+okay, so i played around maybe a bit too much, and it looks a little silly now. BUT - that silliness is a means to an end to show what i could possibly do with a graph in inkscape.
+
+okay! i have exported it too, now to find it on my computer...
+okay, so it is also located in my notebook as g3365.png. 

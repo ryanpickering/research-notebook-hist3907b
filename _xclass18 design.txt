@@ -1,0 +1,9 @@
+theory and practice of design - hard to understand, but there are some basics to wrap our heads around
+
+exercises show this. 
+
+vector vs. raster - you know this, youve done stuff w/ inkscape before. but callback to bitmaps
+vectors the best for our purposes because never any loss of definition: just a series of mathematical expressions allowing the image to show. procedurally generated everytime! (means less data used too)
+
+
+

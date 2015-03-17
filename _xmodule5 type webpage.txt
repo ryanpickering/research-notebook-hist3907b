@@ -1,0 +1,6 @@
+alright, i have set up my page at http://ryanpickering.github.io/module5-humanitiesvisualization/ryansfonttest.html . now to incorporate my fonts. 
+
+i like the function of the code google shares that can switch out any font easily for another - like an api! very cool stuff. 
+- oh wait, it actually is an api. now i feel a little dumb. Regardless, very useful for switching fonts on the fly. 
+
+so, one can find it there now, fully filled out! i like this exercise - i now have access to the google font choices at any point (i wasnt aware of it before) and I can see the subtlety and difficulty in putting together two fonts - i stressed over which serif to pick for quite awhile, at one point starting over again. hopefully the fonts I have chosen are representative of my subject matter in a positive way.

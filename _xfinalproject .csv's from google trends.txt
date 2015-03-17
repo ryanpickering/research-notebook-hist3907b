@@ -1,0 +1,30 @@
+two csv's taken from google trends using their option for it
+
+1. named residential-school-stats.csv, shows search trends for the term "residential schools" from 2004 to present. 
+
+interesting parts are 
+-in the first part, 
+	-tiny blip in early 2004 (sticks out), 
+	-then longer blips of activity in 2005/6/7, 
+	then 9 months of searching culminating in 100% relativeness in 	2008-06-08 to 2008-06-15 - the week of the apology! excellent! 
+	-afterwards, 2.5 months of silence, sustained searching still mid 	2009, silence again... okay, i'm just analyzing now. 
+	-the point is, residential school sticks out. 
+	-2013/14 is the strongest continuous period... idle no more?
+-in the second/third part,
+	- shows subregions and cities for these searches. saskatchewan 	and manitoba height of provincial searches, regina and 		saskatoon and winnipeg top for cities. whoa! 
+	- is this a reflection more so of centrality of population in these 	provinces? what does this reflect of these provinces/the prairies 	in general? in terms of view of res schools/indig people?
+-so, takeaway at first look: different periods of looking at this information, show reflection of discussion in canadian media perhaps? next step: look at archives of prairie papers of this time perhaps?
+
+2. named res-schools-4-terms.csv
+notes...
+- does same timline that 1st csv looks at - anyway to change that?
+- 4 terms looked at: residential schools, canadian residential schools, indian residential schools, aboriginal residential schools
+- territories, maritimes, and quebec engage very very little with any of this information, as opposed to prairies, ontario and BC. does this relfect anything?
+- terminology usage incredibly different!!! manitoba/sask use INDIAN residential schools, whereas ontario bc and alberta dont... ABORIGINAL residential schools used in those regions versus not used in sask/manitoba!!! *** probably biggest find so far
+- leads me to a desire to examine trends in individual provinces, starting with saskatchewan due to high concentration of searches there
+
+3. saskatchewan specifically.
+notes...
+- prince albert has highest relativity of searches (100) on residential schools with pop. of 35K, as opposed to regina (71) with 193K and saskatoon (60) with ~300K. what does this mean???
+	- population of indig. people around the same in all places 	(15-18K)... increased visilbility in smaller community = increased 	desire for knowledge on subject?
+- northern knowledge of residential schools? proximity to indig. people? racism or desire for knowledge?

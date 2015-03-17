@@ -1,0 +1,11 @@
+i already have this from my coupon days! hallelujah!
+
+use inkscape to break up elements of pdf's and move em around!
+
+exercise is to turn an ugly pdf chart into something beautiful
+humanists can mess with charts and "data" like this to highlgiht things because we are not bound by scientific rhetoric
+
+crucial element: layers. inkscape allows us to completely pull apart a pdf, turn EVERYTHING into its own layer, and do cool stuff with it!
+- either simple or complex aesthetic changes
+
+use inkscape to create an entire visualization? text + images... poster idea... cool cool cool cool COOL. 

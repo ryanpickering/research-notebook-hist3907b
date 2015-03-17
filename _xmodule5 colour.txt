@@ -1,0 +1,18 @@
+lynda.com video... primary vs secondary vs tertiary colours. simple stuff so far, i understand that. 
+3 rules: 
+conplementary (across the colour wheel), 
+analagous (the two colours beside the one colour), 
+triad (3 colours 120 degress apart on colour wheel: best method?)
+
+colour swatches... 
+hue tint tone and shade: what do they mean?
+hue: 12 purest colours on colour wheel
+tint: lightening the colour (pastel) w/ white
+tone: neutralize colour by adding grey
+shade: darken the colour w/ black
+
+effective colour contrast: the main point being to contrast light and dark , and use complementary/triad colour schemes, NOT analogous. 
+
+-----
+
+now to put this into action! the colours i chose can be seen at their respective pages, http://ryanpickering.github.io/module5-humanitiesvisualization/colourtest1.html and http://ryanpickering.github.io/module5-humanitiesvisualization/colourtest2.html 
